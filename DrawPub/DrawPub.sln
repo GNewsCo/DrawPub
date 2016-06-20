@@ -17,12 +17,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawPub.Core", "DrawPub.Cor
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{C3482AB2-1BCA-419C-B25D-7C9CA521BD27}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\Users\Amir\Desktop\DrawPub.postman_collection.json = ..\..\..\Users\Amir\Desktop\DrawPub.postman_collection.json
+		DrawPub.postman_collection.json = DrawPub.postman_collection.json
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{9AAE6AAD-4467-4605-ACC8-D01225AA06F2}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\Users\Amir\Desktop\DP.sql = ..\..\..\Users\Amir\Desktop\DP.sql
+		..\..\..\Users\Amir\Desktop\user_database.sql = ..\..\..\Users\Amir\Desktop\user_database.sql
 	EndProjectSection
 EndProject
 Global
